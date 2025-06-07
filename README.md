@@ -14,7 +14,7 @@ RestaurantRecommenderAI
 ### Project Background:
 In today's digital age, a Restaurant Recommender is an intelligent system designed to suggest restaurants based on user preferences, location, cuisine preferences, reviews, and other factors. Using machine learning and data analysis, it tailored recommendations to individual tastes, ensuring users discover new and highly rated dining experiences. Whether you're searching for a hidden gem, a trendy spot, or a budget-friendly option, a Restaurant Recommender makes dining decisions effortless and personalized. 
 ### Project Goal:
-To address this, we will develop RestaurantRecommender AI, a chatbot that combines the power of large language models and rule-based functions to ensure accurate and reliable information delivery.
+To address this, I will develop RestaurantRecommender AI, a chatbot that combines the power of large language models and rule-based functions to ensure accurate and reliable information delivery.
 ### Problem Statement:
 Given Zomato restaurants dataset from Kaggle containing information about restaurants (restaurant names, restaurant types, rating, average cost, cuisine type, area etc.), I will build a chatbot that parses the dataset and provides accurate restaurants recommendations based on the user requirements.
 
